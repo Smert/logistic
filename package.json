@@ -1,0 +1,23 @@
+{
+  "name": "logistic",
+  "version": "0.0.0",
+  "description": "Dependency Injection framework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smert/logistic.git"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "di"
+  ],
+  "author": "Dmitry Blus <dmitri.blyus@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Smert/logistic/issues"
+  },
+  "homepage": "https://github.com/Smert/logistic#readme"
+}
